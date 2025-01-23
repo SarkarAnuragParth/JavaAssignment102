@@ -8,6 +8,7 @@ This is a simple shopping cart application implemented in Java. It allows custom
 - Place orders by entering customer ID and product details.
 - Calculate the total amount for the order.
 - Update product stock after placing an order.
+- Add warranty and gift-wrapping options on each item.
 
 ## Project Structure
 - `src/main/java/com/shopping/`: Contains the main Java source files.
