@@ -64,3 +64,4 @@ Product Code,Name,Unit Price,Stock Available
 
 ## Dependencies
 - Maven for project management and build.
+- JUnit for unit testing
